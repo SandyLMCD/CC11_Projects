@@ -5,6 +5,7 @@ Coding projects I have done while I was taking CC 11: Computing Programming 1 du
 <summary> Programming Exercise 1: Taking input from user using Scanner and output the results.</summary>
 
 **Sample Output**
+<br>
 Enter your name: 
 Sandy
 
@@ -20,10 +21,10 @@ Enter your temperature:
 Enter your gender: 
 F
 
-Name: Sandy
-Address: CDO
-School: XU
-Temperature: 36.0
-Gender: F
+Name: Sandy <br>
+Address: CDO <br>
+School: XU <br>
+Temperature: 36.0 <br>
+Gender: F <br>
 
 </details>
