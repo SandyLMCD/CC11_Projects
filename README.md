@@ -4,7 +4,8 @@ Coding projects I have done while I was taking CC 11: Computing Programming 1 du
 <details>
 <summary> Programming Exercise 1: Taking input from user using Scanner and output the results.</summary>
 
-**Sample Output**
+<br>
+Sample Output
 <br>
 Enter your name: 
 Sandy
