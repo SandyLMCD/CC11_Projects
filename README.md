@@ -2,8 +2,9 @@
 Coding projects I have done while I was taking CC 11: Computing Programming 1 during my first year of college.
 
 <details>
-<summary>**Programming Exercise 1:** Taking input from user using Scanner and output the results.</summary>
-```
+<summary> Programming Exercise 1: Taking input from user using Scanner and output the results.</summary>
+
+**Sample Output**
 Enter your name: 
 Sandy
 
@@ -24,5 +25,5 @@ Address: CDO
 School: XU
 Temperature: 36.0
 Gender: F
-```
+
 </details>
