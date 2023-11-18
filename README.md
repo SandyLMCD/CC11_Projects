@@ -5,27 +5,6 @@ Coding projects I have done while I was taking CC 11: Computing Programming 1 du
 <summary> Programming Exercise 1: Taking input from user using Scanner and output the results.</summary>
 
 <br>
-Sample Output
-<br>
-Enter your name: 
-Sandy
-
-Enter your address: 
-CDO
-
-Enter your school: 
-XU
-
-Enter your temperature: 
-36
-
-Enter your gender: 
-F
-
-Name: Sandy <br>
-Address: CDO <br>
-School: XU <br>
-Temperature: 36.0 <br>
-Gender: F <br>
+![image](https://github.com/SandyLMCD/CC11_Projects/assets/111030904/7274afc0-27f6-4e2f-9e35-856c239d05cb)
 
 </details>
