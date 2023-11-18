@@ -1,0 +1,50 @@
+//Written by: Sandy Lumacad
+//Block A
+
+package programmingExercise1Package;
+
+import java.util.Scanner;
+
+public class programmingExercise1Class {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		// 📌 Getting user input
+		
+		// Scanner gets user input for classmate's name
+		System.out.println("Enter your name: ");
+		
+		String cmateName = sc.nextLine();
+		
+		// Scanner gets user input for classmate's address
+		System.out.println("\n" + "Enter your address: ");
+		
+		String cmateAddress = sc.nextLine();
+		
+		// Scanner gets user input for classmate's school
+		System.out.println("\n" + "Enter your school: ");
+		
+		String cmateSchool = sc.nextLine();
+		
+		// Scanner gets user input for classmate's temperature
+		System.out.println("\n" + "Enter your temperature: ");
+		
+		Double cmateTemperature = sc.nextDouble();
+		
+		// Scanner gets user input for classmate's gender
+		System.out.println("\n" + "Enter your gender: ");
+		
+		String cmateGender = sc.next();
+		
+		// 📌 Program will then print out the user inputs
+		System.out.println("\n" + "Name: " + cmateName);
+		System.out.println("Address: " + cmateAddress);
+		System.out.println("School: " + cmateSchool);
+		System.out.println("Temperature: " + cmateTemperature);
+		System.out.println("Gender: " + cmateGender); 
+		
+		sc.close();
+	}
+
+}
